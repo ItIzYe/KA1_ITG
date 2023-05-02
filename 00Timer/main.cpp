@@ -5,7 +5,7 @@
 #include <ctime>                               //
 #include <math.h>                              //
 using namespace std;
-double tstart;                                // => ERSTELLT FLOAT
+double tstart;                                 // => ERSTELLT FLOAT
 int main()
 {
     while (1){                                 // => 1 ENTSPRICHT True, KANN DURCH return 0; ODER break; GEBROCHEN WERDEN (EINFACH return 0; BENUTZEN BITTE)
