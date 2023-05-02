@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1678803304 source:h:\05 inf\2223\02 zufall\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<math.h>
+
