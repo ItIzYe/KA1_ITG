@@ -14,7 +14,7 @@ int main()
     tstart = clock();
     cout << " Start:"<< tstart ;
         for (double q=0;q<90000000;q++);
-    tstart = (clock()-tstart)/CLOCKS_PER_SEC;
+    tstart = (clock()-tstart)/CLOCKS_PER_SEC; //=> SIEHE PROJEKT 00TIMER
     cout << " Dauer:" << tstart <<endl;
 
     }
