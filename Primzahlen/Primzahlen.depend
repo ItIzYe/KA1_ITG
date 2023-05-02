@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683033952 source:h:\informatik ruben\primzahlen\main.cpp
+	<cstdlib>
+	<ctime>
+	<math.h>
+	<iostream>
+	<limits>
+
